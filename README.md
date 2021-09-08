@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HenrikOz
-- 👀 I’m interested in ESP and single chip programming and interface with elecronic HW
+- 👀 I’m interested in ESP and single chip programming and interfaceing with elecronic HW
 - 🌱 I’m currently learning Code managment
-- 💞️ I’m looking to collaborate on ... mpt sure yet
+- 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me email is good for me 
 
 <!---
